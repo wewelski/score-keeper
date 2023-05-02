@@ -1,3 +1,3 @@
 # Score Keeper App
-### A simple score keeper app using HTML and JS.
-### I've used a Bulma CSS framework for the styling
+This is a simple score keeping app made with HTML and JS. I've used Bulma CSS for the style.
+We went through Bootstrap, but Bulma has won me over because of it's simplicity.
